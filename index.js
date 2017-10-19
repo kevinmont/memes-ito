@@ -10,6 +10,7 @@ const obj={
 
 
 console.log(obj.email)
+console.log(obj.twitter)
 /*
 function hola(){
     return 'hola mundo -.-'
