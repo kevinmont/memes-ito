@@ -5,6 +5,7 @@ const obj={
     nombre : 'kevin',
     edad : '20',
     email: 'oli_wars7@hotmail.com',
+    twitter: '@kevinmont'
 }
 
 
